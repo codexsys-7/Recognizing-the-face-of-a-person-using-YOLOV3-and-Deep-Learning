@@ -150,7 +150,8 @@ The Datafile which was used in this project was some yolov3 configuration files,
 
 + https://techieyantechnologies.com/2022/06/get-started-with-creating-new-environment-in-anaconda-configuring-jupyter-notebook-and-installing-libraries-using-requirements-txt-2/
 5. Loading an understanding the transfer learning concept might be tricky at the start. Please refer to the algorithm description to learn more about transfer learning.
-**Note: All the required data has been provided over here. Please feel free to contact me for any issues.**
+
+**Note: All the required data hasn't been provided over here i.e the model weigths are not provided over here. Please feel free to contact me for any issues.**
 
 ### _**Let’s Connect**_
 https://www.linkedin.com/in/abhinay-lingala-5a3ab7205/
